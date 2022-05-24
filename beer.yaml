@@ -1,0 +1,4 @@
+train: ./dataset/train/images
+val: ./dataset/val/images
+nc: 4
+names: ['Haeundae', 'Hite_zero', 'CASS', 'TERRA']
